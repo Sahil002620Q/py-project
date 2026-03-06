@@ -1,3 +1,3 @@
 import subprocess
 
-subprocess.run("pwd", shell=True)
+subprocess.run("winget install netcat", shell=True)
